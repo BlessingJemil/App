@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/App/static/css/main.7424d911.css",
+    "main.js": "/App/static/js/main.53863aff.js",
+    "static/js/787.c3651ceb.chunk.js": "/App/static/js/787.c3651ceb.chunk.js",
+    "static/media/ipadpro12.png": "/App/static/media/ipadpro12.a1634f38b205d04fe657.png",
+    "static/media/iphone14promax.png": "/App/static/media/iphone14promax.837ed7c30baf9a325640.png",
+    "static/media/mba.png": "/App/static/media/mba.4733c3595e6d77dd45f6.png",
+    "static/media/keyboard.jpg": "/App/static/media/keyboard.97db3b8ac1be6b10e346.jpg",
+    "static/media/macbookair.jpg": "/App/static/media/macbookair.c6b9339248a18c4e7da9.jpg",
+    "static/media/ipadmini.jpg": "/App/static/media/ipadmini.71ff59849d7e218a8945.jpg",
+    "static/media/studio.jpg": "/App/static/media/studio.417ec87da9e5434ef024.jpg",
+    "static/media/ipadair.jpg": "/App/static/media/ipadair.429660d740cafac98294.jpg",
+    "static/media/iphone14.jpg": "/App/static/media/iphone14.36c4e683c25eb86a2441.jpg",
+    "static/media/iphone13.jpg": "/App/static/media/iphone13.064c61480fdf1aa0d6d0.jpg",
+    "static/media/23.png": "/App/static/media/23.42434ffd7a1feb288d97.png",
+    "static/media/maclit.jpg": "/App/static/media/maclit.511c83eebe3b6fe4ef8c.jpg",
+    "index.html": "/App/index.html",
+    "main.7424d911.css.map": "/App/static/css/main.7424d911.css.map",
+    "main.53863aff.js.map": "/App/static/js/main.53863aff.js.map",
+    "787.c3651ceb.chunk.js.map": "/App/static/js/787.c3651ceb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7424d911.css",
+    "static/js/main.53863aff.js"
+  ]
+}
